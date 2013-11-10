@@ -1,4 +1,4 @@
 jpte
 ====
 
-Jalios Plugin Tools Eclipse
+JCMS Plugin Tools Eclipse
